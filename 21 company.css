@@ -1,0 +1,62 @@
+
+body{
+	margin: 0px;
+	background-color: #41A988;
+}
+.header{
+	background-color: blue;
+}
+.header img{
+	
+	height: 150px;
+	width: 150px;
+	padding: 20px;
+}
+.header h2{
+  display: inline-block;
+	float: right;
+margin-top: 30px;
+}
+.about{
+	display: flex;
+}
+.photos{
+	height: 300px;
+	width: 300px;
+	margin-left: 50px;
+	margin-right: 100px;
+	margin-top: 10px;
+
+}
+.text h1{
+	text-align: center;
+
+}
+.text p{
+	text-align: justify;
+	margin-left: 160px;
+	margin-right: 60px;
+}
+.service h2{
+	padding: 0px;
+	margin-bottom: 0px;
+margin-top: 140px;
+}
+.service p{
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 10px;
+}
+.box{
+	border: 1px solid	orange;
+	display: flex;
+}
+.box div{
+	padding: 05px;
+/*	height: 170px;*/
+	width: 550px;
+	margin-left: 06px;
+	margin-right:06px;
+	margin-bottom: 5px;
+	}
+
